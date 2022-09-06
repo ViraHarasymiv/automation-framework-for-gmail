@@ -1,0 +1,40 @@
+2022-09-07 01:03:26 [main] INFO - [TestNG] Running:
+  C:\Users\Harasymiv\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+ [Logger.info (Logger.java:112)]
+2022-09-07 01:03:26 [main] WARN - Specified port - 4723 is occupied by some process, process will be terminated [configuration.AddressConfigurator.isPortFree (AddressConfigurator.java:62)]
+2022-09-07 01:03:28 [main] INFO - Appium server started on port 4723                                [configuration.AddressConfigurator.startService (AddressConfigurator.java:37)]
+2022-09-07 01:03:43 [main] INFO - Driver is created                                                 [driver.DriverManager.createDriver (DriverManager.java:43)]
+2022-09-07 01:03:43 [main] INFO - Environment type is LOCAL                                         [driver.DriverManager.createDriver (DriverManager.java:44)]
+2022-09-07 01:03:48 [main] INFO - Driver is closed                                                  [driver.DriverManager.lambda$closeDriver$0 (DriverManager.java:51)]
+2022-09-07 01:03:48 [main] INFO - Appium server is stopped                                          [configuration.AddressConfigurator.lambda$stopService$0 (AddressConfigurator.java:42)]
+2022-09-07 01:03:48 [main] INFO - AVD is closed                                                     [driver.DriverManager.closeEmulator (DriverManager.java:62)]
+2022-09-07 01:08:15 [main] INFO - [TestNG] Running:
+  C:\Users\Harasymiv\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+ [Logger.info (Logger.java:112)]
+2022-09-07 01:08:15 [main] WARN - Specified port - 4723 is occupied by some process, process will be terminated [configuration.AddressConfigurator.isPortFree (AddressConfigurator.java:62)]
+2022-09-07 01:08:16 [main] INFO - Appium server started on port 4723                                [configuration.AddressConfigurator.startService (AddressConfigurator.java:37)]
+2022-09-07 01:08:29 [main] INFO - Driver is created                                                 [driver.DriverManager.createDriver (DriverManager.java:43)]
+2022-09-07 01:08:29 [main] INFO - Environment type is LOCAL                                         [driver.DriverManager.createDriver (DriverManager.java:44)]
+2022-09-07 01:08:35 [main] INFO - Driver is closed                                                  [driver.DriverManager.lambda$closeDriver$0 (DriverManager.java:51)]
+2022-09-07 01:08:35 [main] INFO - Appium server is stopped                                          [configuration.AddressConfigurator.lambda$stopService$0 (AddressConfigurator.java:42)]
+2022-09-07 01:08:35 [main] INFO - AVD is closed                                                     [driver.DriverManager.closeEmulator (DriverManager.java:62)]
+2022-09-07 01:09:32 [main] INFO - [TestNG] Running:
+  C:\Users\Harasymiv\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+ [Logger.info (Logger.java:112)]
+2022-09-07 01:09:32 [main] WARN - Specified port - 4723 is occupied by some process, process will be terminated [configuration.AddressConfigurator.isPortFree (AddressConfigurator.java:62)]
+2022-09-07 01:09:33 [main] INFO - Appium server started on port 4723                                [configuration.AddressConfigurator.startService (AddressConfigurator.java:37)]
+2022-09-07 01:09:52 [main] INFO - Driver is created                                                 [driver.DriverManager.createDriver (DriverManager.java:43)]
+2022-09-07 01:09:52 [main] INFO - Environment type is LOCAL                                         [driver.DriverManager.createDriver (DriverManager.java:44)]
+2022-09-07 01:09:58 [main] INFO - Driver is closed                                                  [driver.DriverManager.lambda$closeDriver$0 (DriverManager.java:51)]
+2022-09-07 01:09:58 [main] INFO - Appium server is stopped                                          [configuration.AddressConfigurator.lambda$stopService$0 (AddressConfigurator.java:42)]
+2022-09-07 01:09:58 [main] INFO - AVD is closed                                                     [driver.DriverManager.closeEmulator (DriverManager.java:62)]
+2022-09-07 01:12:50 [main] INFO - [TestNG] Running:
+  C:\Users\Harasymiv\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+ [Logger.info (Logger.java:112)]
+2022-09-07 01:12:50 [main] WARN - Specified port - 4723 is occupied by some process, process will be terminated [configuration.AddressConfigurator.isPortFree (AddressConfigurator.java:62)]
+2022-09-07 01:12:51 [main] INFO - Appium server started on port 4723                                [configuration.AddressConfigurator.startService (AddressConfigurator.java:37)]
+2022-09-07 01:13:02 [main] INFO - Driver is created                                                 [driver.DriverManager.createDriver (DriverManager.java:43)]
+2022-09-07 01:13:02 [main] INFO - Environment type is LOCAL                                         [driver.DriverManager.createDriver (DriverManager.java:44)]
+2022-09-07 01:13:08 [main] INFO - Driver is closed                                                  [driver.DriverManager.lambda$closeDriver$0 (DriverManager.java:51)]
+2022-09-07 01:13:08 [main] INFO - Appium server is stopped                                          [configuration.AddressConfigurator.lambda$stopService$0 (AddressConfigurator.java:42)]
+2022-09-07 01:13:08 [main] INFO - AVD is closed                                                     [driver.DriverManager.closeEmulator (DriverManager.java:62)]
